@@ -1,4 +1,4 @@
-Đề tài: Tìm hiểu https://superset.apache.org/ và xây dựng chương trình giống Power BI (Hệ đại trà)
+Đề tài tiểu luận chuyên ngành KTDL: Tìm hiểu https://superset.apache.org/ và xây dựng chương trình giống Power BI (Hệ đại trà)
 
 Thành viên nhóm:
 
