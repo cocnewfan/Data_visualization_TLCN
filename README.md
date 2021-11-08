@@ -7,7 +7,3 @@ Thành viên nhóm:
 Nguyễn Thành Công 18133004
 
 Trịnh Công Viễn 18133061
-
-How to run:
-
-streamlit run main.py
