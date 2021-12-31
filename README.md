@@ -6,9 +6,9 @@
 
 ## Thành viên nhóm:
 
-## Nguyễn Thành Công 18133004
+Nguyễn Thành Công 18133004
 
-## Trịnh Công Viễn 18133061
+Trịnh Công Viễn 18133061
 
 #Hướng dẫn cài đặt sử dụng docker compose:
 
