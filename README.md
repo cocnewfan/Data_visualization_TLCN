@@ -1,14 +1,14 @@
 # Tiểu luận chuyên ngành KTDL
 
-Đề tài: Tìm hiểu https://superset.apache.org/ và xây dựng chương trình giống Power BI (Hệ đại trà)
+## Đề tài: Tìm hiểu https://superset.apache.org/ và xây dựng chương trình giống Power BI (Hệ đại trà)
 
-GVHD: TS. Huỳnh Xuân Phụng
+## GVHD: TS. Huỳnh Xuân Phụng
 
-Thành viên nhóm:
+## Thành viên nhóm:
 
-Nguyễn Thành Công 18133004
+## Nguyễn Thành Công 18133004
 
-Trịnh Công Viễn 18133061
+## Trịnh Công Viễn 18133061
 
 #Hướng dẫn cài đặt sử dụng docker compose:
 
