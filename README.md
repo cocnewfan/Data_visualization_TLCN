@@ -10,32 +10,30 @@ Nguyễn Thành Công 18133004
 
 Trịnh Công Viễn 18133061
 
-Hướng dẫn cài đặt:
+Hướng dẫn cài đặt sử dụng docker compose:
 
-Tạo một mạng mới với tên là hadoop-network:
+1.Tạo một mạng mới với tên là hadoop-network:
 
 $ docker network create -d bridge my-bridge-network
 
 Ví dụ: ($ docker network create --driver bridge hadoop-network --subnet=172.12.0.0/16)
 
-Sử dụng docker compose
-
-Di chuyển vào thử mục postgresql và khởi chạy PostgreSQL:
+2.Di chuyển vào thử mục postgresql và khởi chạy PostgreSQL:
 
 $ docker-compose up -d
 
 (Sử dụng PgAdmin để dễ dàng quản lý cơ sở dữ liệu hơn với địa chỉ http://0.0.0.0:5050 với User là admin, Password là 123)
 
-Di chuyển vào thư mục superset và khởi chạy Superset:
+3.Di chuyển vào thư mục superset và khởi chạy Superset:
 
 $ docker-compose up -d
 
 Truy cập vào Superset với địa chỉ http://127.0.0.1:8088
 
-Để dừng sử dụng :
+4.Để dừng sử dụng :
 
 $ docker-compose down
 
-Để lưu lại những kết quả thực hiện:
+5.Để lưu lại những kết quả thực hiện:
 
 $ docker commit ID_Container
