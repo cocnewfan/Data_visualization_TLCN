@@ -10,7 +10,7 @@ Nguyễn Thành Công 18133004
 
 Trịnh Công Viễn 18133061
 
-Hướng dẫn cài đặt sử dụng docker compose:
+#Hướng dẫn cài đặt sử dụng docker compose:
 
 1.Tạo một mạng mới với tên là hadoop-network:
 
